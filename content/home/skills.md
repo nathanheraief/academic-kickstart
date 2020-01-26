@@ -9,27 +9,27 @@ title = "Skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "fa-python"
   icon_pack = "fab"
-  name = "R"
+  name = "Python"
   description = "90%"
-  
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
-  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "fa-basketball-ball"
   icon_pack = "fas"
-  name = "Photography"
+  name = "BasketBall"
   description = "10%"
 
 +++
