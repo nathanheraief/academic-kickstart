@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "EDF"
   company_url = ""
   location = "Paris"
-  date_start = "2019-11-01"
+  date_start = "2019-11-13"
   date_end = ""
   description = """
   Responsibilities include:
