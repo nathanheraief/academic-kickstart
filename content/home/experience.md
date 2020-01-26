@@ -38,6 +38,9 @@ date_format = "Jan 2006"
   location = "Paris"
   date_start = "2019-04-01"
   date_end = "2019-09-31"
-  description = """Research Intern in semi-supervised and supervised Machine Learning. Working on Time series, NLP,..."""
+  description = """
+  Research Intern in semi-supervised and supervised Machine Learning. 
+  Working on Time series, NLP,...
+  """
 
 +++
