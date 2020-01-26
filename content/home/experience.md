@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "EDF"
   company_url = ""
   location = "Paris"
-  date_start = "2019-11-18"
+  date_start = "2019-11-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -37,9 +37,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Paris"
   date_start = "2019-04-01"
-  date_end = "2019-09-31"
+  date_end = ""
   description = """
-  Research Intern in semi-supervised and supervised Machine Learning. 
+  Research Intern in semi-supervised and supervised Machine Learning.
   Working on Time series, NLP,...
   """
 
