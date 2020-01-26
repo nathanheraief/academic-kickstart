@@ -24,12 +24,12 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "95%"  
 
 [[feature]]
   icon = "basketball-ball"
   icon_pack = "fas"
   name = "BasketBall"
-  description = "10%"
+  description = "60%"
 
 +++
