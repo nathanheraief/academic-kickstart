@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Paris"
   date_start = "2019-04-01"
-  date_end = "2019-04-01"
+  date_end = "2019-10-01"
   description = """
   Research Intern in semi-supervised and supervised Machine Learning.
   Working on Time series, NLP,...
