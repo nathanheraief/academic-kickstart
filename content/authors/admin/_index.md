@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an AI enthousiat working as DataScientist at EDF. My working and research interests include Deep Learning networks optimisation, Hardware Accelerators and programmable matter.
+I'm an AI enthousiaste working as DataScientist at EDF. My working and research interests include Deep Learning networks optimisation, Hardware Accelerators and programmable matter.
