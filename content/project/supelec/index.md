@@ -8,7 +8,7 @@ math= true
 highlight= true
 [image]
 focal_point= "Smart"
-preview_only= false
+preview_only= true
 +++
 
 This is my project.
